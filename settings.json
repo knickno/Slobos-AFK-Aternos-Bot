@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkewlMC.aternos.me:59757",
+    "ip": "SkewlMC.aternos.me",
     "port": 59757,
     "version": "",
     "try-creative": false
