@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkewlMC.aternos.me",
-    "port": 59757,
+    "ip": "skewlmc.mcsh.gg",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100000000,
       "messages": [
         "I'm a regular player",
         "I like to play Minecraft!"
